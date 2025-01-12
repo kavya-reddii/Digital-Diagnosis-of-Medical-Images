@@ -1,1 +1,8 @@
 # Digital-Diagnosis-of-Medical-Images
+Knee osteoarthritis is a prevalent and debilitating condition that significantly affects individuals' quality of life, often leading to pain, reduced mobility, and decreased independence. Given its widespread impact, early detection and accurate diagnosis are crucial for enabling timely interventions and improving patient outcomes. In this project, we explore the potential of advanced deep learning models to automatically diagnose knee osteoarthritis by analyzing knee X-ray images. Specifically, we compare the performance of three prominent transfer learning-based architectures—ResNet50, AlexNet, and VGG19—in identifying osteoarthritis from X-ray images. Each model is trained on a comprehensive dataset, with a focus on evaluating their performance across various metrics such as accuracy, sensitivity, specificity, and test loss. Through this comparative analysis, we aim to assess which model offers the best balance of efficiency and accuracy, providing insights into the suitability of different architectures for medical image classification. The ultimate goal is to develop a reliable, automated diagnostic tool that can support early intervention, streamline clinical workflows, and contribute to better patient care. By leveraging deep learning techniques, this research strives to make a meaningful impact on the field of medical diagnostics and foster innovations in healthcare technology.  
+
+Run the app.py file usinf python app.py command
+Then the development server runs on http://127.0.0.1:5000/
+<img width="936" alt="Screenshot 2025-01-12 112320" src="https://github.com/user-attachments/assets/788cba95-e746-4882-a9e2-c3a0db063632" />
+
+MIT License added.
